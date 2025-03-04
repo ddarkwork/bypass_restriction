@@ -5,6 +5,9 @@
 ########################### RESTRICTED SHELL ###########################
 #########################################################################################################################
 
+  * echo $PATH => find the vulnerable path
+  * echo <vulnerable_path>/*
+  * https://systemweakness.com/how-to-breakout-of-rbash-restricted-bash-4e07f0fd95e
   * https://0xffsec.com/handbook/shells/restricted-shells/
 
 #########################################################################################################################
